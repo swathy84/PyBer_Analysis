@@ -13,9 +13,11 @@ After intital reviewing and cleaning up process for the 2 datasets, we merged th
 On the new merged dataframe,
 
 •Created Bubble Chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type.
+
 ![main](analysis/PyBer_Ride_Sharing_Data.png)
 
 •Created Box-and-Whisker plots that visualizes the number of rides for each city type, the fares for each city type, the number of drivers for each city type. 
+
 ![main](analysis/Ride_Count_Data.png)
 ![main](analysis/Ride_Fare_data.png)
 ![main](analysis/Driver_Count_Data.png)
@@ -31,7 +33,7 @@ On the new merged dataframe,
 
 The purpose of this analysis is to create multiple-line graph that shows the total weekly fares for each city type.
 
-[PyBer Challenge](Pyber_Challenge.ipynb) - Updated Analysis on Pyber ride and share data.
+[PyBer Challenge](PyBer_Challenge.ipynb) - Updated Analysis on Pyber ride and share data.
 
 ## Result
 
